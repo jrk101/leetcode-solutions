@@ -1,4 +1,4 @@
-\# LeetCode Solutions (Python)
+# LeetCode Solutions (Python)
 
 
 
@@ -10,7 +10,7 @@ I am practicing data structures and algorithms consistently to improve problem-s
 
 
 
-\## Structure
+## Structure
 
 \- Each file is named after the problem.
 
